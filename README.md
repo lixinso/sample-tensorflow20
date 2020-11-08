@@ -14,3 +14,5 @@ TensorFlow offers a rich library of operations (tf.add, tf.matmul, tf.linalg.inv
 # References
 
 https://www.tensorflow.org/tutorials/customization/basics
+
+- https://github.com/tensorflow/tensorflow
